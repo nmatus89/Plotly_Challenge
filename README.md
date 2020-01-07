@@ -94,9 +94,3 @@ Use Flask API starter code to serve the data needed for your plots.
 * Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
 
 * Refer to the [Plotly.js Documentation](https://plot.ly/javascript/) when building the plots.
-
-- - -
-
-### Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
